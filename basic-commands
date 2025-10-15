@@ -1,1 +1,7 @@
   pwd ; print working directory "which shows the current location "
+ls : list 
+ ls 
+ ls : which prints the files and folder 
+
+cd : change directories 
+  which opens the particular folder
